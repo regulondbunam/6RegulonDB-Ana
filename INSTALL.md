@@ -1,10 +1,10 @@
-# [Software name]
+# [Phrases_et]
 
 
 
 - ## Installation instructions
 
-[Describe installation instructions of the software.]
+[Se ]
 
 1. Step 1
 Execute:
